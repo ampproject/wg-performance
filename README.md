@@ -1,5 +1,5 @@
 # wg-performance
-**wg-performance** [Working Group](https://github.com/ampproject/meta/blob/master/GOVERNANCE.md#working-groups) is responsible for AMP's load and runtime performance for compliant documents. This includes monitoring and improving the performance footprint of AMP documents.
+**wg-performance** [Working Group](https://github.com/ampproject/meta/blob/master/GOVERNANCE.md#working-groups) is responsible for monitoring and improving AMP's load and runtime performance for compliant documents.
 
 Facilitator: [@kristoferbaxter](https://github.com/kristoferbaxter)
 
