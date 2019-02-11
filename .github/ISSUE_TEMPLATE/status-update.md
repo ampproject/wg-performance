@@ -9,6 +9,6 @@ assignees: ''
 
 ## What was accomplished
 
-## Lessons learned
+## Lessons Learned
 
-## What's next
+## What's Next

@@ -9,4 +9,4 @@ assignees: ''
 
 ## What Was Investigated?
 
-## What's next
+## What's Next

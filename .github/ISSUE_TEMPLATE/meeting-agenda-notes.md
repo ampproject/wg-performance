@@ -1,7 +1,6 @@
 ---
 name: Meeting Agenda/Notes
-about: Used to track the agenda for Working Group meetings and record notes from the
-  meeting.
+about: Used to track the agenda for Working Group meetings and record notes.
 title: Meeting YYYY-MM-DD
 labels: 'Type: Meeting'
 assignees: ''
