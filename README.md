@@ -1,5 +1,3 @@
-(Pending TSC Approval)
-
 # wg-performance
 **wg-performance** [Working Group](https://github.com/ampproject/meta/blob/master/GOVERNANCE.md#working-groups) is responsible for monitoring and improving AMP's load and runtime performance for compliant documents.
 
@@ -22,4 +20,4 @@ Any bugs or feature requests related to AMP should NOT be filed in this reposito
 `@ampproject/wg-performance` can be used to mention the UI Working Group in issues and PRs.
 
 # Code of Conduct
-UI Working Group follows the [AMP open source project code of conduct](https://github.com/ampproject/meta/blob/master/CODE_OF_CONDUCT.md).
+The Performance Working Group follows the [AMP open source project code of conduct](https://github.com/ampproject/meta/blob/master/CODE_OF_CONDUCT.md).
