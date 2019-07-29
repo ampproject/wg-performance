@@ -6,6 +6,7 @@ Facilitator: [@kristoferbaxter](https://github.com/kristoferbaxter)
 # Members
 - [@kristoferbaxter](https://github.com/kristoferbaxter) - Kristofer Baxter (Facilitator)
 - [@prateekbh](https://github.com/prateekbh) - Prateek Bhatnagar
+- [@alanorozco](https://github.com/alanorozco) – Alan Orozco
 
 Github team https://github.com/orgs/ampproject/teams/wg-performance also includes UI WG members.
 
