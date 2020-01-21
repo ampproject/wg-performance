@@ -4,9 +4,10 @@
 Facilitator: [@kristoferbaxter](https://github.com/kristoferbaxter)
 
 # Members
-- [@kristoferbaxter](https://github.com/kristoferbaxter) - Kristofer Baxter (Facilitator)
-- [@erwinmombay](https://github.com/erwinmombay) - Erwin Mombay
+- [@kristoferbaxter](https://github.com/kristoferbaxter) – Kristofer Baxter (Facilitator)
+- [@erwinmombay](https://github.com/erwinmombay) – Erwin Mombay
 - [@alanorozco](https://github.com/alanorozco) – Alan Orozco
+- [@kevinkimball](https://github.com/kevinkimball) – Kevin Kimball
 
 Github team https://github.com/orgs/ampproject/teams/wg-performance also includes UI WG members.
 
