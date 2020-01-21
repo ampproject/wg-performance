@@ -9,7 +9,7 @@ Facilitator: [@kristoferbaxter](https://github.com/kristoferbaxter)
 - [@alanorozco](https://github.com/alanorozco) – Alan Orozco
 - [@kevinkimball](https://github.com/kevinkimball) – Kevin Kimball
 
-Github team https://github.com/orgs/ampproject/teams/wg-performance also includes UI WG members.
+Github team https://github.com/orgs/ampproject/teams/wg-performance also includes Performance WG members.
 
 # Communication Channels
 - Performance Working Group members will use `#wg-performance` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in Performance working group.
