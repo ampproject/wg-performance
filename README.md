@@ -1,13 +1,14 @@
 # wg-performance
-**wg-performance** [Working Group](https://github.com/ampproject/meta/blob/master/GOVERNANCE.md#working-groups) is responsible for monitoring and improving AMP's load and runtime performance for compliant documents.
+**wg-performance** [Working Group](https://github.com/ampproject/meta/blob/master/GOVERNANCE.md#working-groups) is responsible for monitoring and improving AMP's load and runtime performance for compliant documents in all formats (Web Stories, AMP Pages, AMP Email, etc). Additionally, this group is responsible for AMP's core runtime, including layout/rendering and data binding.
 
-Facilitator: [@kristoferbaxter](https://github.com/kristoferbaxter)
+Facilitator: [@erwinmombay](https://github.com/erwinmombay)
 
 # Members
-- [@kristoferbaxter](https://github.com/kristoferbaxter) – Kristofer Baxter (Facilitator)
-- [@erwinmombay](https://github.com/erwinmombay) – Erwin Mombay
-- [@alanorozco](https://github.com/alanorozco) – Alan Orozco
+- [@erwinmombay](https://github.com/erwinmombay) – Erwin Mombay (Facilitator)
 - [@kevinkimball](https://github.com/kevinkimball) – Kevin Kimball
+- [@jridgewell](https://github.com/jridgewell) - Justin Ridgewell
+- [@samouri](https://github.com/samouri) - Jake Fried
+- [@kristoferbaxter](https://github.com/kristoferbaxter) – Kristofer Baxter
 
 Github team https://github.com/orgs/ampproject/teams/wg-performance also includes Performance WG members.
 
