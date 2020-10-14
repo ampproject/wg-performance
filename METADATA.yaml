@@ -1,18 +1,28 @@
 title: Performance
-description: wg-performance Working Group is responsible for monitoring and improving AMP's load and runtime performance for compliant documents.
+merged: 
+ - runtime
+description: Responsible for monitoring and improving AMP's load and runtime performance for compliant documents in all formats (Web Stories, AMP Pages, AMP Email, etc). Additionally, this group is responsible for AMP's core runtime, including layout/rendering and data binding.
 facilitator:
-  login: kristoferbaxter
-  name: Kristofer Baxter
+  login: erwinmombay
+  name: Erwin Mombay
 members:
-  - login: erwinmombay
-    name: Erwin Mombay
-  - login: alanorozco
-    name: Alan Orozco
+  - login: kevinkimball
+    name: Kevin Kimball
+  - login: jridgewell
+    name: Justin Ridgewell
+  - login: samouri
+    name: Jake Fried
+  - login: kristoferbaxter
+    name: Kristofer Baxter
 communication:
   - channel: slack
     name: Slack
     content:
       - item: "The Performance Working Group members will use `#wg-performance` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in Performance working group."
+  - channel: hangouts 
+    name: Google Hangouts 
+    content:
+      - item: "**Weekly Status Meetings**, Fridays @ 10AM PDT. To join in please dial into the following [Hangouts Meet room](https://meet.google.com/bgv-euqx-dew)."
   - channel: github
     name: GitHub
     content:
