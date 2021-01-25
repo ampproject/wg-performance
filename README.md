@@ -9,6 +9,7 @@ Facilitator: [@erwinmombay](https://github.com/erwinmombay)
 - [@jridgewell](https://github.com/jridgewell) - Justin Ridgewell
 - [@samouri](https://github.com/samouri) - Jake Fried
 - [@kristoferbaxter](https://github.com/kristoferbaxter) – Kristofer Baxter
+- [@rcebulko](https://github.com/rcebulko) – Ryan Cebulko
 
 Github team https://github.com/orgs/ampproject/teams/wg-performance also includes Performance WG members.
 
