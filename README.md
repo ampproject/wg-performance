@@ -5,7 +5,6 @@ Facilitator: [@erwinmombay](https://github.com/erwinmombay)
 
 # Members
 - [@erwinmombay](https://github.com/erwinmombay) – Erwin Mombay (Facilitator)
-- [@kevinkimball](https://github.com/kevinkimball) – Kevin Kimball
 - [@jridgewell](https://github.com/jridgewell) - Justin Ridgewell
 - [@samouri](https://github.com/samouri) - Jake Fried
 - [@kristoferbaxter](https://github.com/kristoferbaxter) – Kristofer Baxter
@@ -18,7 +17,7 @@ Github team https://github.com/orgs/ampproject/teams/wg-performance also include
 - Performance Working Group will post **Status Updates** every two weeks as an issue labeled with `Type: Status Update` in this repository.
 - Performance Working Group will post **Announcements and Notices** regarding events as an issue labeled with `Type: Event` in this repository.
 - Performance Working Group will post **Quarterly Roadmap** as an issue labeled with `Type: Roadmap` in this repository.
-- **Weekly Status Meetings**, Fridays @ 10AM PDT, https://meet.google.com/bgv-euqx-dew
+- **Weekly Status Meetings**, Fridays @ 11AM PDT, https://meet.google.com/bgv-euqx-dew
 
 Any bugs or feature requests related to AMP should NOT be filed in this repository and https://github.com/ampproject/amphtml/issues should be used instead.
 
