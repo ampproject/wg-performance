@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+cc @ampproject/wg-performance
+
 ## What was accomplished
 
 ## Lessons Learned
