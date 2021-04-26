@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+cc @wg-performance
+
 ## What was accomplished
 
 ## Lessons Learned
