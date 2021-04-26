@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-cc @wg-performance
+cc @ampproject/wg-performance
 
 ## What was accomplished
 
