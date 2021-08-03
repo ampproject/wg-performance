@@ -16,7 +16,6 @@ Github team https://github.com/orgs/ampproject/teams/wg-performance also include
 - Performance Working Group members will use `#wg-performance` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in Performance working group.
 - Performance Working Group will post **Status Updates** every two weeks as an issue labeled with `Type: Status Update` in this repository.
 - Performance Working Group will post **Announcements and Notices** regarding events as an issue labeled with `Type: Event` in this repository.
-- Performance Working Group will post **Quarterly Roadmap** as an issue labeled with `Type: Roadmap` in this repository.
 - **Weekly Status Meetings**, Fridays @ 11AM PDT, https://meet.google.com/bgv-euqx-dew
 
 Any bugs or feature requests related to AMP should NOT be filed in this repository and https://github.com/ampproject/amphtml/issues should be used instead.
